@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 2019/10/8 13:35
-# @Author  : GXl
-# @File    : 2.2.py
-# @Software: win10 Tensorflow1.13.1 python3.5.6
+# @Time    : 2020/11/10
+# @Author  : herring
+# @Software: win10 python3.5.1
 
 
 import numpy as np
